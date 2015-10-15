@@ -14,3 +14,5 @@
 
 - [Reproducible Research and Open Science Badges](http://tinyurl.com/ros-badge)
 
+- [Data Management Plan for Sequence Data](https://github.com/sr320/LabDocs/blob/master/DMPseq.md)
+
