@@ -16,6 +16,3 @@ _research specific_
 - iPlant         
 - Galaxy        
 - SQLShare        
-- 
-- 
-- 
