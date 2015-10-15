@@ -1,5 +1,5 @@
 
-This repository includes [a slidedeck](https://github.com/sr320/talk-CC-OA-2015/raw/master/2015-CC-OAweek.pdf) presented on October 15th as part of ["Open Access Opportunities for Credit, Tenure, and Promotion" - OA Week @ Claremont College](http://libguides.libraries.claremont.edu/OpenAccess/OAweek)
+## This repository includes [a slidedeck](https://github.com/sr320/talk-CC-OA-2015/raw/master/2015-CC-OAweek.pdf) presented on October 15th as part of ["Open Access Opportunities for Credit, Tenure, and Promotion" - OA Week @ Claremont College](http://libguides.libraries.claremont.edu/OpenAccess/OAweek)
 
 
 ##Links
