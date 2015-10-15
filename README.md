@@ -8,7 +8,7 @@ This repository includes [a slidedeck](https://github.com/sr320/talk-CC-OA-2015/
 
 - [Student collaboration leads to first results describing sick sea star immune response](http://www.washington.edu/news/2015/10/07/student-collaboration-leads-to-first-results-describing-sick-sea-star-immune-response/)
 
-- [Roberts Lab Research Products (Including Lab Notebooks](http://faculty.washington.edu/sr320/?page_id=246)
+- [Roberts Lab Research Products (Including Lab Notebooks)](http://faculty.washington.edu/sr320/?page_id=246)
 
 - [Roberts Tenure Package](http://goo.gl/LRXbvD)
 
