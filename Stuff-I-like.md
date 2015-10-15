@@ -3,7 +3,7 @@
 _general_          
 - Markdown (Application - Byword)        
 - GitHub        
-- Jupyter Notebooks         
+- Jupyter         
 - FigShare          
 - Zenodo       
 - ImpactStory        
